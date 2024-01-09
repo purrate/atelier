@@ -1,6 +1,6 @@
-# atelier
+## atelier
 
-#Description 
+# Description 
 
 Finding an agreeable place to settle down for anyone has always been a hunt. Proximity to the city, Facilities available, Surrounding amenities, work, school, transportation, etc.
 With so much to consider it's only fair that you have someone guiding you to find your optimal home! 
